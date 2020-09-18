@@ -1,4 +1,4 @@
-# Web-Statistika-Matana
+# Web Statistika ~ Matana University
 
 This repository created for Department of Statistics ~ Matana University, Tengerang, Indonesia. Please feel free to follow alone step by step of building a Website using R Blogdown bellow:
 
