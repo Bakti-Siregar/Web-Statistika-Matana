@@ -1,0 +1,3 @@
+blogdown:::serve_site()
+file.edit('~/.Rprofile')
+blogdown::serve_site()
