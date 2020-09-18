@@ -6,13 +6,13 @@ This repository created for Department of Statistics ~ Matana University, Tenger
 ## Install Git
 ## GitHub Account 
 * New Repository > Readme> Licence> master branch 
-* Get the link of your `https://github.com/your_user_name/your_repository_name.git`
+* Get the link of your `https://github.com/your_user_name/your_repository_name.git` 
 
 ## Open your RStudio 
 * Click Tools > Global Options > Git/SVN > C:/Program Files/Git/bin/git.exe > Apply > Ok
 * File > New Project > Version Control > Git 
-* Repository URL: https://github.com/your_user_name/your_repository_name.git
-* Project Direcory Name : the default should be `your_repository_name`. Feel free change it if you want to
+* Repository URL: https://github.com/your_user_name/your_repository_name.git, **Ex:** `https://github.com/Bakti-Siregar/Web-Statistika-Matana.git`
+* Project Direcory Name : the default should be `your_repository_name`, **Ex:** `Web-Statistika-Matana`. Feel free change it if you want to
 * Subdirectory: Depends on You, choose anywehere you want.
 * Click `Create Project`
 
