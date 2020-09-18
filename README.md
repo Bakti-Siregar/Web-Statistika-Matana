@@ -25,8 +25,8 @@ This repository created for Department of Statistics ~ Matana University, Tenger
 * `blogdown::install_hugo()`
 
 ## Select Hugo Theme 
-* Here I select : https://themes.gohugo.io/toha/
-* Go to https://github.com/hossainemruz/toha
+* Here I select : https://themes.gohugo.io/educenter-hugo/
+* Go to https://github.com/themefisher/educenter-hugo
 * Back to your RStudio Console and type: `blogdown::new_site(theme="themefisher/educenter-hugo")`
 
 ## Stop the default Server
